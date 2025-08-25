@@ -1,0 +1,3 @@
+name = "lk21-api"
+compatibility_date = "2025-08-25"
+main = "src/index.ts"
